@@ -30,9 +30,9 @@ export default function Home() {
       <section className="bg-white  p-10 w-full">
   <div className="flex flex-col lg:flex-row items-center lg:items-start gap-8">
     <div className="lg:w-1/2">
-      <h1 className="text-3xl font-bold text-blue-900 mb-4">
+      <h2 className="text-3xl font-bold text-blue-900 mb-4">
         Welcome To The Future Of Real Estate In Dubai: Future Proptech Summit
-      </h1>
+      </h2>
       <div className="text-lg text-gray-700">
         <p>
           The global PropTech market, valued at $33.57 billion in 2023, is set to reach $89.93 billion by 2032, growing at a CAGR of 11.9%. PropTech is revolutionizing real estate with AI, blockchain, IoT, and VR. Dubai leads this transformation with innovations like fractional ownership, backed by progressive government initiatives.
